@@ -1,0 +1,48 @@
+body{
+    background-image: url("normal.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.app-main{
+   width:30%;
+   margin:0 auto;
+    margin-top:70px;
+    background-color:rgb(144, 144, 239);
+    text-align: center;
+    border-radius: 10px;
+    
+}
+h4{
+    color:white;
+    font-size:25px;
+}
+.input-box{
+    width:95%;
+    padding:10px 0;
+    border-radius: 5px;
+    border: none;
+}
+.weather-body{
+    background-color: rgb(65, 65, 165);
+    color:white;
+    width: 95%;
+    margin-left: 11px;
+    border-radius: 10px;
+}
+.location-details{
+    margin-top:5px;
+}
+.date{
+    margin-top: 30px;
+    width:30%;
+    margin:auto
+}
+.temp{
+    margin-top:25px;
+    font-size:50px
+}
+
+.weather{
+    font-size:20px;
+    padding-bottom: 20px;
+}
